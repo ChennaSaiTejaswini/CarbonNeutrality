@@ -1,0 +1,51 @@
+.dashboard {
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+  }
+  
+  .top-section {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .emission-calculator, .summary-statistics {
+    width: 48%;
+  }
+  
+  .card {
+    background: #f9f9f9;
+    padding: 15px;
+    margin-bottom: 10px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  .middle-section {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .charts-graphs, .mine-list {
+    width: 48%;
+  }
+  
+  .mine-list table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .mine-list th, .mine-list td {
+    padding: 10px;
+    border: 1px solid #ddd;
+  }
+  
+  .mine-list input {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
