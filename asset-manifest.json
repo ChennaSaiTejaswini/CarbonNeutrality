@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/ChennaSaiTejaswini/CarbonNeutrality.git/static/css/main.2505282c.css",
-    "main.js": "/ChennaSaiTejaswini/CarbonNeutrality.git/static/js/main.99afd04c.js",
-    "static/media/image.png": "/ChennaSaiTejaswini/CarbonNeutrality.git/static/media/image.a9adcbb80da0486dcdf9.png",
-    "static/media/bg.webp": "/ChennaSaiTejaswini/CarbonNeutrality.git/static/media/bg.e4026b65f921454bbff5.webp",
-    "static/media/websiteimage.png": "/ChennaSaiTejaswini/CarbonNeutrality.git/static/media/websiteimage.358642f5671491f6c04c.png",
-    "index.html": "/ChennaSaiTejaswini/CarbonNeutrality.git/index.html",
-    "main.2505282c.css.map": "/ChennaSaiTejaswini/CarbonNeutrality.git/static/css/main.2505282c.css.map",
-    "main.99afd04c.js.map": "/ChennaSaiTejaswini/CarbonNeutrality.git/static/js/main.99afd04c.js.map"
+    "main.css": "/CarbonNeutrality/static/css/main.2505282c.css",
+    "main.js": "/CarbonNeutrality/static/js/main.7ceee0a4.js",
+    "static/media/image.png": "/CarbonNeutrality/static/media/image.a9adcbb80da0486dcdf9.png",
+    "static/media/bg.webp": "/CarbonNeutrality/static/media/bg.e4026b65f921454bbff5.webp",
+    "static/media/websiteimage.png": "/CarbonNeutrality/static/media/websiteimage.358642f5671491f6c04c.png",
+    "index.html": "/CarbonNeutrality/index.html",
+    "main.2505282c.css.map": "/CarbonNeutrality/static/css/main.2505282c.css.map",
+    "main.7ceee0a4.js.map": "/CarbonNeutrality/static/js/main.7ceee0a4.js.map"
   },
   "entrypoints": [
     "static/css/main.2505282c.css",
-    "static/js/main.99afd04c.js"
+    "static/js/main.7ceee0a4.js"
   ]
 }
